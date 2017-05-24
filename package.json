@@ -1,25 +1,25 @@
 {
-  "name": "passport-infusionsoft",
-  "version": "0.0.3",
-  "description": "Infusionsoft API OAuth2 authentication strategy for Passport",
-  "main": "./lib/passport-infusionsoft",
+  "name": "passport-clover",
+  "version": "0.0.1",
+  "description": "Clover API OAuth2 authentication strategy for Passport",
+  "main": "./lib/passport-clover",
   "dependencies": {
     "pkginfo": "0.2.x",
     "passport-oauth": ">= 0.1.0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/andrewgbliss/passport-infusionsoft.git"
+    "url": "https://github.com/sreader1414/passport-clover.git"
   },
   "bugs": {
-    "url": "https://github.com/andrewgbliss/passport-infusionsoft/issues"
+    "url": "https://github.com/sreader1414/passport-clover/issues"
   },
   "engines": {
     "node": ">= 0.4.0"
   },
   "keywords": [
     "passport",
-    "infusionsoft",
+    "clover",
     "api",
     "auth",
     "oauth",
@@ -27,8 +27,8 @@
     "identity"
   ],
   "author": {
-    "name": "Andrew Bliss",
-    "email": "andrewgbliss@gmail.com"
+    "name": "Stephen Reader",
+    "email": "stephengreader@gmail.com"
   },
   "license": "MIT",
   "readmeFilename": "README.md"
